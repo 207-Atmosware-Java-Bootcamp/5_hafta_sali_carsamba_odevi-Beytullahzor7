@@ -1,2 +1,5 @@
 # 5.hafta.sali.carsamba.odevi
-https://github.com/ulkulekci/Turkcell_javaSe_odevler
+
+1) Kullanicidan alinan vize final notuna gore gecme-kalma durumu hesaplamak
+2) Girilen sayının asal olup olmadıgını bulmak
+3) Girilen sayının faktoriyelini bulmak
